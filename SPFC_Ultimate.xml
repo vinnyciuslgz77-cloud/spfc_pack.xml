@@ -1,0 +1,338 @@
+<?xml version="1.0"?>
+<PackData name="SPFC Ultimate" desc="SC São Paulo com Máximo Potencial e Remates">
+    <TeamOverride team="3488" name="SC São Paulo">
+
+    <!-- GOLEIROS -->
+    <Player name="Rafael" position="GK">
+        <Overall>99</Overall>
+        <Potential>99</Potential>
+        <Reflexes>99</Reflexes>
+        <Handling>99</Handling>
+        <Kicking>98</Kicking>
+        <Positioning>99</Positioning>
+        <Diving>99</Diving>
+        <Physical>95</Physical>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Carlos Coronel" position="GK">
+        <Overall>97</Overall>
+        <Potential>98</Potential>
+        <Reflexes>98</Reflexes>
+        <Handling>97</Handling>
+        <Kicking>96</Kicking>
+        <Positioning>97</Positioning>
+        <Diving>98</Diving>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Young" position="GK">
+        <Overall>95</Overall>
+        <Potential>99</Potential>
+        <Reflexes>95</Reflexes>
+        <Handling>94</Handling>
+        <Kicking>92</Kicking>
+        <Positioning>94</Positioning>
+        <Diving>96</Diving>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Felipe Preis" position="GK">
+        <Overall>90</Overall>
+        <Potential>99</Potential>
+        <Reflexes>92</Reflexes>
+        <Handling>90</Handling>
+        <Positioning>89</Positioning>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <!-- DEFESA -->
+    <Player name="Arboleda" position="CB">
+        <Overall>99</Overall>
+        <Potential>99</Potential>
+        <Pace>95</Pace>
+        <Defending>99</Defending>
+        <Heading>99</Heading>
+        <Physical>99</Physical>
+        <Passing>94</Passing>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Alan Franco" position="CB">
+        <Overall>98</Overall>
+        <Potential>99</Potential>
+        <Pace>94</Pace>
+        <Defending>98</Defending>
+        <Physical>96</Physical>
+        <Passing>93</Passing>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Ferraresi" position="CB">
+        <Overall>98</Overall>
+        <Potential>99</Potential>
+        <Pace>95</Pace>
+        <Defending>98</Defending>
+        <Physical>97</Physical>
+        <Passing>92</Passing>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Sabino" position="CB">
+        <Overall>96</Overall>
+        <Potential>97</Potential>
+        <Pace>90</Pace>
+        <Defending>97</Defending>
+        <Physical>96</Physical>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Rafael Tolói" position="CB">
+        <Overall>95</Overall>
+        <Potential>95</Potential>
+        <Pace>88</Pace>
+        <Defending>96</Defending>
+        <Physical>92</Physical>
+        <Passing>90</Passing>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Dória" position="CB">
+        <Overall>94</Overall>
+        <Potential>95</Potential>
+        <Pace>85</Pace>
+        <Defending>95</Defending>
+        <Physical>95</Physical>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Wendell" position="LB">
+        <Overall>97</Overall>
+        <Potential>98</Potential>
+        <Pace>99</Pace>
+        <Passing>95</Passing>
+        <Dribbling>94</Dribbling>
+        <Defending>92</Defending>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Enzo Díaz" position="LB">
+        <Overall>96</Overall>
+        <Potential>97</Potential>
+        <Pace>96</Pace>
+        <Passing>94</Passing>
+        <Crossing>98</Crossing>
+        <Defending>92</Defending>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Cédric Soares" position="RB">
+        <Overall>94</Overall>
+        <Potential>94</Potential>
+        <Pace>89</Pace>
+        <Passing>91</Passing>
+        <Defending>92</Defending>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Lucas Ramon" position="RB">
+        <Overall>93</Overall>
+        <Potential>99</Potential>
+        <Pace>95</Pace>
+        <Passing>88</Passing>
+        <Defending>90</Defending>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Maik" position="RB">
+        <Overall>91</Overall>
+        <Potential>99</Potential>
+        <Pace>94</Pace>
+        <Passing>85</Passing>
+        <Defending>88</Defending>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <!-- MEIO -->
+    <Player name="Oscar" position="CAM">
+        <Overall>99</Overall>
+        <Potential>99</Potential>
+        <Passing>99</Passing>
+        <Vision>99</Vision>
+        <Dribbling>99</Dribbling>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Lucas Moura" position="RW">
+        <Overall>99</Overall>
+        <Potential>99</Potential>
+        <Pace>99</Pace>
+        <Dribbling>99</Dribbling>
+        <Agility>99</Agility>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Pablo Maia" position="CDM">
+        <Overall>98</Overall>
+        <Potential>99</Potential>
+        <Passing>96</Passing>
+        <Defending>98</Defending>
+        <Physical>98</Physical>
+        <Stamina>99</Stamina>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Bobadilla" position="CM">
+        <Overall>96</Overall>
+        <Potential>99</Potential>
+        <Passing>95</Passing>
+        <Dribbling>93</Dribbling>
+        <Defending>91</Defending>
+        <Physical>94</Physical>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Marcos Antônio" position="CM">
+        <Overall>96</Overall>
+        <Potential>98</Potential>
+        <Passing>98</Passing>
+        <Vision>96</Vision>
+        <Dribbling>96</Dribbling>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Alisson" position="CM">
+        <Overall>96</Overall>
+        <Potential>97</Potential>
+        <Passing>96</Passing>
+        <Dribbling>94</Dribbling>
+        <Physical>93</Physical>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Danielzinho" position="CM">
+        <Overall>92</Overall>
+        <Potential>99</Potential>
+        <Passing>91</Passing>
+        <Vision>90</Vision>
+        <Dribbling>90</Dribbling>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Cauly" position="CAM">
+        <Overall>95</Overall>
+        <Potential>96</Potential>
+        <Passing>96</Passing>
+        <Dribbling>95</Dribbling>
+        <Vision>96</Vision>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Luan" position="CDM">
+        <Overall>94</Overall>
+        <Potential>95</Potential>
+        <Defending>96</Defending>
+        <Physical>95</Physical>
+        <Passing>88</Passing>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Felipe Negrucci" position="CM">
+        <Overall>91</Overall>
+        <Potential>99</Potential>
+        <Passing>90</Passing>
+        <Vision>90</Vision>
+        <Dribbling>89</Dribbling>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <!-- ATAQUE -->
+    <Player name="Calleri" position="ST">
+        <Overall>99</Overall>
+        <Potential>99</Potential>
+        <Finishing>99</Finishing>
+        <Heading>99</Heading>
+        <Physical>99</Physical>
+        <Positioning>99</Positioning>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Luciano" position="CF">
+        <Overall>98</Overall>
+        <Potential>98</Potential>
+        <Shooting>99</Shooting>
+        <Dribbling>96</Dribbling>
+        <Passing>94</Passing>
+    </Player>
+
+    <Player name="Ferreira" position="LW">
+        <Overall>97</Overall>
+        <Potential>99</Potential>
+        <Pace>99</Pace>
+        <Dribbling>99</Dribbling>
+        <Agility>99</Agility>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="André Silva" position="ST">
+        <Overall>95</Overall>
+        <Potential>97</Potential>
+        <Finishing>95</Finishing>
+        <Heading>92</Heading>
+        <Physical>91</Physical>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Gonzalo Tapia" position="RW">
+        <Overall>96</Overall>
+        <Potential>99</Potential>
+        <Pace>99</Pace>
+        <Dribbling>97</Dribbling>
+        <Agility>98</Agility>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Artur" position="RW">
+        <Overall>94</Overall>
+        <Potential>98</Potential>
+        <Pace>96</Pace>
+        <Dribbling>94</Dribbling>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Lucca" position="CF">
+        <Overall>92</Overall>
+        <Potential>99</Potential>
+        <Pace>93</Pace>
+        <Dribbling>91</Dribbling>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Ryan Francisco" position="ST">
+        <Overall>93</Overall>
+        <Potential>99</Potential>
+        <Pace>95</Pace>
+        <Finishing>95</Finishing>
+        <Dribbling>92</Dribbling>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Pedro Ferreira" position="RW">
+        <Overall>90</Overall>
+        <Potential>99</Potential>
+        <Pace>92</Pace>
+        <Dribbling>89</Dribbling>
+        <Passing>88</Passing>
+        <Shooting>99</Shooting>
+    </Player>
+
+    <Player name="Tetê" position="RW">
+        <Overall>95</Overall>
+        <Potential>96</Potential>
+        <Pace>97</Pace>
+        <Dribbling>96</Dribbling>
+        <Shooting>99</Shooting>
+    </Player>
+
+    </TeamOverride>
+</PackData>
