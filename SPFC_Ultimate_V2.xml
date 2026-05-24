@@ -1,0 +1,42 @@
+<?xml version="1.0"?>
+<PackData name="SPFC Ultimate Pack" desc="SC São Paulo com Máximo Potencial e Remates">
+<PlayerData baseImageUrl="http://cdn.cloudfiles.mosso.com/c12341/">
+<TeamOverride team="3488" name="SC São Paulo">
+<Player name="Rafael" pos="GK" ovr="99" pot="99" sh="99" />
+<Player name="Carlos Coronel" pos="GK" ovr="97" pot="98" sh="99" />
+<Player name="Young" pos="GK" ovr="95" pot="99" sh="99" />
+<Player name="Felipe Preis" pos="GK" ovr="90" pot="99" sh="99" />
+<Player name="Arboleda" pos="CB" ovr="99" pot="99" sh="99" />
+<Player name="Alan Franco" pos="CB" ovr="98" pot="99" sh="99" />
+<Player name="Ferraresi" pos="CB" ovr="98" pot="99" sh="99" />
+<Player name="Sabino" pos="CB" ovr="96" pot="97" sh="99" />
+<Player name="Rafael Tolói" pos="CB" ovr="95" pot="95" sh="99" />
+<Player name="Dória" pos="CB" ovr="94" pot="95" sh="99" />
+<Player name="Wendell" pos="LB" ovr="97" pot="98" sh="99" />
+<Player name="Enzo Díaz" pos="LB" ovr="96" pot="97" sh="99" />
+<Player name="Cédric Soares" pos="RB" ovr="94" pot="94" sh="99" />
+<Player name="Lucas Ramon" pos="RB" ovr="93" pot="99" sh="99" />
+<Player name="Maik" pos="RB" ovr="91" pot="99" sh="99" />
+<Player name="Oscar" pos="CAM" ovr="99" pot="99" sh="99" />
+<Player name="Lucas Moura" pos="RW" ovr="99" pot="99" sh="99" />
+<Player name="Pablo Maia" pos="CDM" ovr="98" pot="99" sh="99" />
+<Player name="Bobadilla" pos="CM" ovr="96" pot="99" sh="99" />
+<Player name="Marcos Antônio" pos="CM" ovr="96" pot="98" sh="99" />
+<Player name="Alisson" pos="CM" ovr="96" pot="97" sh="99" />
+<Player name="Danielzinho" pos="CM" ovr="92" pot="99" sh="99" />
+<Player name="Cauly" pos="CAM" ovr="95" pot="96" sh="99" />
+<Player name="Luan" pos="CDM" ovr="94" pot="95" sh="99" />
+<Player name="Felipe Negrucci" pos="CM" ovr="91" pot="99" sh="99" />
+<Player name="Calleri" pos="ST" ovr="99" pot="99" sh="99" />
+<Player name="Luciano" pos="CF" ovr="98" pot="98" sh="99" />
+<Player name="Ferreira" pos="LW" ovr="97" pot="99" sh="99" />
+<Player name="André Silva" pos="ST" ovr="95" pot="97" sh="99" />
+<Player name="Gonzalo Tapia" pos="RW" ovr="96" pot="99" sh="99" />
+<Player name="Artur" pos="RW" ovr="94" pot="98" sh="99" />
+<Player name="Lucca" pos="CF" ovr="92" pot="99" sh="99" />
+<Player name="Ryan Francisco" pos="ST" ovr="93" pot="99" sh="99" />
+<Player name="Pedro Ferreira" pos="RW" ovr="90" pot="99" sh="99" />
+<Player name="Tetê" pos="RW" ovr="95" pot="96" sh="99" />
+</TeamOverride>
+</PlayerData>
+</PackData>
